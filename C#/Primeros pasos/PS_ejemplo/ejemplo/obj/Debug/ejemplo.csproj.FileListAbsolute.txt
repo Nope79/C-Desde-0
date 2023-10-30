@@ -1,0 +1,6 @@
+C:\Users\Master79\Programación\C#\Primeros pasos\PS_ejemplo\ejemplo\bin\Debug\ejemplo.exe.config
+C:\Users\Master79\Programación\C#\Primeros pasos\PS_ejemplo\ejemplo\bin\Debug\ejemplo.exe
+C:\Users\Master79\Programación\C#\Primeros pasos\PS_ejemplo\ejemplo\bin\Debug\ejemplo.pdb
+C:\Users\Master79\Programación\C#\Primeros pasos\PS_ejemplo\ejemplo\obj\Debug\ejemplo.csprojResolveAssemblyReference.cache
+C:\Users\Master79\Programación\C#\Primeros pasos\PS_ejemplo\ejemplo\obj\Debug\ejemplo.exe
+C:\Users\Master79\Programación\C#\Primeros pasos\PS_ejemplo\ejemplo\obj\Debug\ejemplo.pdb
